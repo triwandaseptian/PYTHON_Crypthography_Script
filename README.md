@@ -1,7 +1,12 @@
 CrypikPisang, merupakan tools generator kriptografi, menggunakan library crypto pada python 2.7
 
-Penggunaan :    
+Penggunaan :
 ```bash
+$chmod +x crypik-pisang
+$./crypik-pisang
+```
+Tampilan
+```
     =================================================================
        _____                  _ _      _____ _
       / ____|                (_) |    |  __ (_)
